@@ -1,0 +1,102 @@
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'minion-pro-display'!important ;
+    color: #222;
+  }
+.name{
+    margin-top: 2em;
+    margin-bottom: 6em;
+    text-align: center;
+    font-size: 15px;
+    font-family:  "minion-pro-display";
+}
+
+.paragraph{
+    font-size: 4em;
+    font-family:  "minion-pro-display";
+    padding-bottom: 2em;
+    font-weight: 60;
+}
+.table1{
+    padding-top: 6em;
+    margin-bottom: 8em;
+}
+.left-col{
+    text-align: center;
+}
+
+
+.res{
+    margin-top: 10em;
+}
+.table2{
+    margin-top: 8em;
+}
+table{
+    margin-top: 8em;
+}
+.heading{
+    font-size: 35px;
+    padding-bottom: 35px;
+}
+.btn-down{
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.btn{
+    margin-top: 5em;
+}
+.email ,
+.subject{
+    width: 66%;
+    /* height: 2em; */
+}
+.msg{
+   width:  66%;
+   height: 15em;
+}
+form{
+    line-height: 2.5;
+}
+.formbtn{
+    width: 10%   
+}
+.navbar{
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+}
+i {
+    font-size: 2em;
+}
+i:hover{
+    color: rgb(109, 148, 163);
+    cursor: pointer;
+}
+.album{
+    width: 110%;
+    height: 110%!important;
+    float: left;
+    display: block;
+    height: 10em;
+    cursor: pointer;
+}
+
+.footer{
+    text-align: center;
+    cursor: pointer;
+}
+
+
+.footer-hover:hover{
+    color: rgb(110, 94, 94); 
+}
+
+.blockquote{
+    margin-bottom: 5rem!important;
+    font-style: italic;
+    font-family:  "minion-pro-display";
+    font-size: 100px;
+}
